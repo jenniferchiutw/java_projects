@@ -1,7 +1,4 @@
 
-//610511012邱冠瑄
-//期末小專題Q1程式碼
-
 import java.io.*;
 import java.util.*;
 import java.util.ArrayList;
@@ -190,22 +187,6 @@ public class Q1 {
 //	    }
 	    
 	    
-	    //測試陣列輸出的資料
-//	    for(int x=0;x<13;x++) {
-//	    	System.out.println(m[x]);
-//	    }
-	    
-	    
-	    //檢查計算結果
-//	    System.out.println("height總和="+sum_height);
-//	    System.out.println("year總和="+sum_m);
-//	    System.out.println("height平均="+avg_height);
-//	    System.out.println("year平均="+avg_m);
-//	    System.out.println("power_mm="+power_mm);
-//	    System.out.println("power_mheight="+power_mheight);
-//	    System.out.println("ssxx="+ssxx);
-//	    System.out.println("ssxy="+ssxy);
-//	    System.out.println("ssyy="+ssyy);
 	    
 	}
 

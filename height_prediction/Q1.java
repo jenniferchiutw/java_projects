@@ -11,7 +11,7 @@ import org.apache.commons.math3.distribution.NormalDistribution;
 public class Q1 {
 	public static void main(String[] args) throws IOException {
 		//電腦讀取資料
-	    FileReader fr = new FileReader("/Users/Jennifer/eclipse-workspace/FJU_AdvProgramming/Final/src/height_avg.csv"); 
+	    FileReader fr = new FileReader("height_avg.csv"); 
 	    BufferedReader br = new BufferedReader(fr);
 	    String line, tempstring;
 	    String [] tempArray = new String[5];

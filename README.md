@@ -9,4 +9,4 @@ This repository holds my programming projects using Java.
 
 * [Number Guessing Game](https://github.com/jenniferchiutw/java_projects/tree/main/guess_num_ab)
   * Game Designing
-  * [Demo Video](https://drive.google.com/file/d/1-l3OOsDT7STpnJrOdUD8165LfP7QtAVl/view?usp=sharing)
+  * [Demo Video](https://drive.google.com/file/d/1AOBsLnkxh0Wg5W47LAFnd-XVr7tV0E2N/view?usp=sharing)
